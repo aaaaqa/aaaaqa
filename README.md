@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Computer Science major student 🖥
+
+- Currently working on refactorizing code at GameDeals Webapp 🎮
+- Currently learning about responsiveness 🎨
+
 <!--
 **aaaaqa/aaaaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
