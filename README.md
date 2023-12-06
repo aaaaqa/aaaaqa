@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Computer Science major student 🖥
+I'm aaaaqa, a computer science major student. Passionate for machine learning, data science and web development. Always looking for improve my coding skills.
 
+- Ask me anything, I'll be happy to share my knowledge.
 - Currently working on refactorizing code at GameDeals Webapp 🎮
 - Currently learning about responsiveness 🎨
 
