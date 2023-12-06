@@ -22,6 +22,12 @@ I'm aaaaqa, a computer science major student. Passionate for machine learning, d
 - Python
 - C#
 
+### Languages
+| Language | Proficiency |
+|----------|-------------|
+| English  |      B2     |
+| Spanish  |    Native   |
+
 <!--
 **aaaaqa/aaaaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
