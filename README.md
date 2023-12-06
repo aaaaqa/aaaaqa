@@ -1,10 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm aaaaqa, a computer science major student. Passionate for machine learning, data science and web development. Always looking for improve my coding skills.
 
 - Ask me anything, I'll be happy to share my knowledge.
 - Currently working on refactorizing code at GameDeals Webapp 🎮
 - Currently learning about responsiveness 🎨
+
+## My skills 📜
+### Backend Development
+- JavaScript
+- TypeScript
+- Java
+- Python
+
+### Frontend Development
+- HTML
+- CSS
+
+### Application Development
+- C++
+- Python
+- C#
 
 <!--
 **aaaaqa/aaaaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
