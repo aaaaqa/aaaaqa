@@ -22,6 +22,10 @@ I'm aaaaqa, a computer science major student. Passionate for machine learning, d
 - Python
 - C#
 
+### Machine Learning Development
+- Python
+- JAVA
+
 ### Languages
 | Language | Proficiency |
 |----------|-------------|
