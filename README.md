@@ -3,8 +3,7 @@
 I'm aaaaqa, a computer science major student. Passionate for machine learning, data science and web development. Always looking for improve my coding skills.
 
 - Ask me anything, I'll be happy to share my knowledge.
-- Currently working on an emotion recognition CNN 🤖
-- Currently learning about responsiveness 🎨
+- Currently learning about Deep learning 🤖🖊
 
 ## My skills 📜
 ### Backend Development
