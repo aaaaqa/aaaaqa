@@ -3,7 +3,7 @@
 I'm aaaaqa, a computer science major student. Passionate for machine learning, data science and web development. Always looking for improve my coding skills.
 
 - Ask me anything, I'll be happy to share my knowledge.
-- Currently learning about Deep learning 🤖🖊
+- Currently learning about OCR and Concurrency 🤖🖊
 
 ## My skills 📜
 ### Backend Development
@@ -20,6 +20,7 @@ I'm aaaaqa, a computer science major student. Passionate for machine learning, d
 - C++
 - Python
 - C#
+- Golang
 
 ### Machine Learning Development
 - Python
