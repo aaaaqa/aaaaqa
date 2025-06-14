@@ -40,4 +40,4 @@ I'm aaaaqa, a computer science major student. Passionate for machine learning, d
 
 ![LinkedIn](https://github.com/user-attachments/assets/14130f9a-474f-4fb5-8a37-d62674185f4b) [Juan Flores](https://www.linkedin.com/in/juan-diego-enrique-flores-tenorio-7ba2691b6/)
 
-![discord](https://github.com/user-attachments/assets/7e19d605-3e62-4860-ac09-6480bf0d3200) bownbleach
+![discord](https://github.com/user-attachments/assets/7e19d605-3e62-4860-ac09-6480bf0d3200) [bownbleach](https://discordapp.com/users/701182021598314496)
